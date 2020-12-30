@@ -1,0 +1,14 @@
+.slider {
+  background-color: lightcoral;
+  height: 2px;
+  width: 50vw;
+
+  &__bar {
+    background-color: aqua;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    position: absolute;
+    top: 4px;
+  }
+}
